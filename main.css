@@ -1,45 +1,61 @@
 /* animal-specific ids */
 
 #mouse {
-
+	color: gray;
 }
 #canary {
-
+	color: orangered;
 }
 #penguin {
-
+	color: black;
 }
 #salmon {
-
+	color: salmon;
 }
 #cat {
-
+	color: sienna;
 }
 #goldfish {
-
+	color: gold;
 }
 #dog {
-
+	color: tan;
 }
 #sheep {
-
+	color: steelblue;
 }
 #parakeet {
-
+	color: lime;
 }
 #tuna {
-
+	color: purple;
 }
 
 
 /* kingdom-specific classes */
 
 .bird {
-
+	background-color: lightgray;
+	font-style: italic;
 }
 .fish {
-
+	background-color: lightyellow;
+	text-decoration: underline;
 }
 .mammal {
+	background-color: lavenderblush;
+	font-weight: bold;
+}
 
+ul {
+	border-color: plum;
+	border-radius: 5px;
+	border-style: dotted;
+	border-width: 3px;
+}
+
+li {
+	border-color: seagreen;
+	border-style: solid;
+	border-top-width: 3px;
 }
